@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "updated": "2026-09-12T13:10:00+03:00",
+  "lessons": {
+    "2026-09-13|11:05|Year 10": {
+      "presentation": true,
+      "worksheet": true,
+      "teams": false,
+      "forms": false,
+      "notes": true,
+      "source": "Verified from canonical Google Drive lesson folder on 2026-09-12",
+      "evidence": {
+        "presentation": "Year-10-Lesson-5-Hexadecimal-Rings-6.pptx",
+        "worksheet": "Student worksheet and extension worksheet present",
+        "notes": "Year-10-Lesson-5-Hexadecimal-Teacher-Notes-and-Answers.docx",
+        "forms": "Microsoft Forms prompt present, but live Form not verified",
+        "teams": "Teams lesson-plan document present, but upload to Teams not verified"
+      }
+    }
+  }
+}
