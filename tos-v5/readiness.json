@@ -1,19 +1,7 @@
 {
-  "version": 2,
-  "updated": "2026-09-15T05:38:00+03:00",
-  "lessons": {
-    "2026-09-13|11:05|Year 10": {
-      "pack": "ready",
-      "live": "action",
-      "next_action": "Verify the required Teams upload and create or verify the live Forms quiz if it is still required.",
-      "source": "Migrated from TOS v5 readiness evidence originally verified from the canonical Google Drive lesson folder on 2026-09-12.",
-      "evidence": {
-        "presentation": "Year-10-Lesson-5-Hexadecimal-Rings-6.pptx was verified.",
-        "student_resource": "Student worksheet and extension worksheet were verified in the lesson folder.",
-        "teacher_notes": "Year-10-Lesson-5-Hexadecimal-Teacher-Notes-and-Answers.docx was verified.",
-        "forms": "A Microsoft Forms prompt existed; the live Form was not verified.",
-        "teams": "A Teams lesson-plan document existed; the live Teams upload was not verified."
-      }
-    }
-  }
+  "version": 3,
+  "status": "deprecated",
+  "updated": "2026-09-15T15:00:00+03:00",
+  "note": "TOS Home no longer uses a manually maintained readiness cache. Readiness must be verified from the current timetable, canonical Google Drive lesson folder, and live Teams/Forms state. This file is retained only so older links fail safely and visibly rather than presenting stale lesson status.",
+  "lessons": {}
 }
